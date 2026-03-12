@@ -2,13 +2,13 @@
 title: How to use AWMC BOT
 description: 
 published: true
-date: 2026-03-12T00:26:31.662Z
+date: 2026-03-12T00:34:09.267Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-12T00:26:31.662Z
 ---
 
-If you have detailed tutorials, feel free to submit a Pull Request via the GitHub editor in the top-right corner!
+> If you have detailed tutorials, feel free to submit a Pull Request via the GitHub editor in the top-right corner!
 {.is-info}
 
 # Bind BOT
