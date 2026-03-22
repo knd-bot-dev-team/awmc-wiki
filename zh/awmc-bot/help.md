@@ -2,7 +2,7 @@
 title: AWMC BOT 基础教程
 description: 
 published: true
-date: 2026-03-12T08:07:13.425Z
+date: 2026-03-22T15:57:03.300Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-11T16:43:29.237Z
@@ -40,6 +40,7 @@ dateCreated: 2026-03-11T16:43:29.237Z
 1. 查询的用户不存在或无数据
 
 确保在水鱼个人资料中填写了正确的QQ号。
+绑定成功后如果没有数据！那么请执行一次`maiu`
 
 2. 传分显示登录失败
 
