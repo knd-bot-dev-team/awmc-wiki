@@ -2,7 +2,7 @@
 title: MAIBOT 使用指南
 description: 
 published: true
-date: 2026-03-27T13:09:57.554Z
+date: 2026-03-27T13:10:29.897Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-27T13:07:56.150Z
@@ -22,7 +22,7 @@ dateCreated: 2026-03-27T13:07:56.150Z
 
 插件默认在**冷却提示**、**解绑卡引导**等场景使用下列链接（可在配置中修改）：
 
-- **优先授权 / 通用店铺**：`https://ifdian.net/a/AWMC_TEAM?tab=shop`  
+- **优先授权 / 通用店铺**：https://ifdian.net/a/AWMC_TEAM?tab=shop
 
 
 ### 2.2 「优先授权」是什么
@@ -152,9 +152,9 @@ dateCreated: 2026-03-27T13:07:56.150Z
 
 ---
 
-## 七、交流与错误引导（默认值）
+## 七、交流
 
-- **反馈 QQ 群**：请前往 **1072033605**（）。
+- **反馈 QQ 群**：请前往 **1072033605**。
 - **官方网站**: https://awmc.cc
 
 ---
