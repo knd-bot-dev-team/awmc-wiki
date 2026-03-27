@@ -1,8 +1,8 @@
 ---
-title: MAIBOT使用指南
+title: MAIBOT 使用指南
 description: 
 published: true
-date: 2026-03-27T13:07:56.150Z
+date: 2026-03-27T13:09:57.554Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-27T13:07:56.150Z
